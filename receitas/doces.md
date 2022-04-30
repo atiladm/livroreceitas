@@ -1,12 +1,12 @@
-#Brigadeiro delicioso demais :chi
+# Brigadeiro delicioso demais :chi:
 
-##Ingredientes
+## Ingredientes
 
 - 1 lata de leite moça
 - 50g de chocolate em pó
 - 1/2 lata de creme de leite
 
-##Modo de preparo
+## Modo de preparo
 
 1. Coloque tudo na panela;
 2. Ligue o fogo;
